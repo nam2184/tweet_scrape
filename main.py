@@ -1,5 +1,5 @@
 import argparse
-from .src.commentscrape import Scrape
+from .src.scrape import Scrape
 
 def main():
     parser = argparse.ArgumentParser(description='Your script description')    
